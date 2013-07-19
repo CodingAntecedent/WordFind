@@ -1,4 +1,5 @@
 require './wordfind.rb'
+require ''
 
 describe "find_words() function" do
   describe "find words" do
