@@ -1,4 +1,4 @@
-require "./wordfind.rb"
+require "./wordfindborked.rb"
 
 puzzle = ["ZMYCEXPRESSIONA",
           "JDBGILPJPMZPJDC",
@@ -7,7 +7,7 @@ puzzle = ["ZMYCEXPRESSIONA",
           "DROWYEKNATAASKS",
           "LCSXMQPTYLRACYS",
           "KZPLRCODEDHYGHF",
-          "EJOXIRLVPWDGEVU",
+          "EJOXI`RLVPWDGEVU",
           "JFXYTAKUAAVWMPN",
           "NETRMKRMJRVWGQC",
           "JFRAGITHUBIQAUT",
@@ -37,4 +37,4 @@ words =
   "RUBY",
   "VARIABLE"]
 
-puts find_words(puzzle, words)
+puts Llllllllllllllllllll.llllllllllllllllllllllll(puzzle, words)

@@ -1,5 +1,4 @@
 
-
 def find_words(puzzle, words)
 	results = Array.new()
 
@@ -11,17 +10,20 @@ def find_words(puzzle, words)
     end
   }
 
-	# puzzle is an array of strings
-	# words is an array of strings
-
-	# find words in puzzle in eight directions
-
-	# output in results array of strings:
-	# WORD(row,column,direction) format
-
-	# your code here!
 	return results
 end
 
 puts find_words(["----",
                 "WORD"], ["WORD"])
+
+
+
+  # puzzle is an array of strings
+  # words is an array of strings
+
+  # find words in puzzle in eight directions
+
+  # output in results array of strings:
+  # WORD(row,column,direction) format
+
+  # your code here!
